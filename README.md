@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Sujatha
 
-<!--
-**sujathaashokms/sujathaashokms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Scientist with a background in software engineering, focused on solving real-world business problems using data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  What I Do
+
+* Data Analysis & Visualization
+* Machine Learning & Predictive Modeling
+* Time Series Forecasting
+* Business Insights & Decision Support
+
+---
+
+## Featured Projects
+
+* 📈 Wine Sales Forecasting – Time series analysis and demand prediction
+* 👥 Customer Churn Prediction – Identified key drivers and retention strategies
+* 🛍️ Retail Analytics – Customer segmentation and revenue insights
+
+---
+
+## Background
+
+I bring prior experience in enterprise systems and software development, which helps me build practical, scalable, and implementable data solutions.
+
+---
+
+## Tools & Technologies
+
+Python | Pandas | NumPy | Scikit-learn | SQL | Power BI | Tableau | Azure ML
+
+---
+
+## Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/sujatha-mohan/
+* Email: [sujatha.ashokms@gmail.com](mailto:sujatha.ashokms@gmail.com)
